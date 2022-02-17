@@ -10,6 +10,8 @@ Exemplos de código utilizando JavaScript.
 
 > Manipulação de Arrays
 
+> Manipulação de Cookies
+
 ----------------------------------------------------------------------------------
 
 ## Licença
